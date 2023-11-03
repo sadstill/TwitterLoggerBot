@@ -1,0 +1,7 @@
+debug:
+  false
+oauth:
+  consumerKey: null
+  consumerSecret: null
+  accessToken: null
+  accessTokenSecret: null
